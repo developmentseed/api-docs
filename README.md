@@ -56,3 +56,7 @@ The example API specification used by this repository can be seen hosted at [htt
 7. Browse to the Swagger documentation at `https://{github-username}.github.io/{repository-name}/`.
 
    The example API specification used by this repository can be seen hosted at [https://peter-evans.github.io/swagger-github-pages](https://peter-evans.github.io/swagger-github-pages/).
+   
+# How to use it
+
+Access `https://devseed.com/api-docs?url={your api schema url}`
