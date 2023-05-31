@@ -1,6 +1,6 @@
 # API-DOCS
 
-This repository publishes a Swagger instance to GitHub pages that can be accessed through https://devseed.com/api-docs. It enables multiple Development Seed projects to use it to visualize its API-Docs. 
+This repository publishes a Swagger instance to GitHub pages that can be accessed through https://devseed.com/api-docs. It enables multiple Development Seed projects to use it to visualize its API-Docs.
 
 # How to use it
 
@@ -15,4 +15,4 @@ You can include it in the project application/website by using an `iframe`:
   />
 ```
 
-If CORS is enabled on the API, it's necessary to allow requests from `https://devseed.com/api-doc`.
+If CORS is enabled on the API, it's necessary to allow requests from `https://devseed.com/api-docs`.
