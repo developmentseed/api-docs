@@ -1,11 +1,9 @@
 window.onload = function() {
   //<editor-fold desc="Changeable Configuration Block">
 
-  let params = new URL(document.location).searchParams;
-  let url = params.get("url");
-
+  // the following lines will be replaced by docker/configurator, when it runs in a docker-container
   window.ui = SwaggerUIBundle({
-    url: url || "swagger.yaml",
+    url: "swagger.yaml",
     dom_id: '#swagger-ui',
     deepLinking: true,
     presets: [
